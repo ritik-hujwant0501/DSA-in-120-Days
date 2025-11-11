@@ -1,0 +1,108 @@
+Here is the complete breakdown of the Data Structures and Algorithms into various modules which are structured in way better manner to learn and understand.
+
+Modular Index
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Module-1: Introduction to Data Structures, Algorithms and Asymptotic Analysis
+          - Introduction to DSA & Basic Terminologies
+          - Performance Analysis
+          - Analysis of loops and functions 
+          - Analysis and asymptotic behaviour of polynomials
+          - Basic of recursion
+
+Module-2: Divide and Conquer Techniques
+          - Introduction to basic techniques & other details
+          - Searching Algorithms:
+                    - Linear Search
+                    - Binary Search
+          - Sorting Algorithms:
+                    - Quick Sort
+                    - Insertion Sort
+                    - Merge Sort
+                    - Bubble Sort
+                    - Closest pair of points
+          - Strassen's Matrix multiplication
+          - Two pointer technique
+          - Finding min and max
+
+Module-3: Arrays
+          - Introduction to arrays & basic terminology
+          - Basic Operations:
+                    - Insertion
+                    - Searching
+                    - Sorting
+                    - Traversing
+                    - Reversing
+                    - Finding min, max and nth element
+                    - Deletion
+          - Concept of Subarrays, 2 pointer problems, merge sorted arrays
+
+Module-4: Strings
+
+Module-5: Linked List
+          - Introduction to linked list & details
+          - Singly Linked List: and Basic Operations
+          - Doubly Linked List & Circular linked List: and Basic Operations
+          - Basic Operations - Insertion, deletion, trsversing, searching, sorting, reversing a list, loop detection, middle element and other concepts of Linked List
+
+Module-6: Stacks and Queues
+          - Introduction to Stacks & Basic Operations
+                    - Operations & basic questions: Push, Pop, Peak/Top, searching, traversal, Balanced Parenthesis, next greater element, infix to postfix evaluation
+          - Introduction to Queue & Basic Operations
+                    - Operations & basic questions: Enqueue, Dequeue, Front
+                    - Circular queues, priority queues
+          - Implementing queue using stack, problem solving using a queue like level order traversal in trees.
+
+Module-7: Recursion & Backtracking
+          - Introduction to recursion, base conecpt and recursive calls
+                    - Factorial, fibonacci series, reversing arrays
+          - Introduction & understanding of backtracking
+                    - Implementation of problems using concepts
+
+Module-8: Greedy Techniques
+          - Introduction to Greedy techniques
+          - Knapsack problems
+          - Minimum cost spanning tree
+          - Representation of graphs
+          - Single Source shortest path problems
+          - Huffmann Coding
+
+Module-9: Trees
+          - Introduction to binary trees and Operations: insertion, pre-order and post-order traversal
+          - Height of a tree, diameter, level-order traversal
+          - Introduction to binary search trees
+          - Operations: Searching, insertion, deletion, finding min/max
+          - Finding lowest common ancestor, in-order traversal, balanced trees
+
+Module-10: Heaps and Hashing
+          - Introduction to heaps: min heap and max heap
+          - Operations: insertion, deletion, heapify
+          - Application of Heaps: priority queues and heapsort
+          - Hash tables and collision resolution techniques
+          - Anagram, grouping, subarrray sums
+
+Module-11: Graphs
+          - Introduction to graphs and its types: directed, undirected, weighted, unweighted
+          - Graph representation: adjancy matrix & adjancy list
+          - Graph traversal: BFS & DFS and its implementation
+          - detaching cycles, finding shortest path in unweighted graph
+          - Graph searching
+          - Topological Sorting
+          - Directed Cyclic Graph
+
+Module-12: Advanced Graph Algorithms
+          - Shortest path algorithm
+                    - Dijkstra algorithm
+                    - Bellamn-Ford algorithm
+                    - Floyd-Warshall algorithm
+          - Topological sorting and strongly connected graphs
+          - Tarjan's or Kasraju's algorithm
+
+Module-13: Advanced Greedy and Bit Manipulation
+          - Various other greedy techniques
+                    - Problems: active selection, fractional knapsack, Huffman coding
+          - Bit Manipulation
+          - Finding single non repeating element, counting set bits, checking if number is power of n.
+
+Module-14: Dynamic Programming
+          - Introduction to Dynamic Programming
